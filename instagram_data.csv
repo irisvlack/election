@@ -1,0 +1,10 @@
+﻿user_id,age,gender,location,political_affiliation,number_of_posts,average_likes_per_post,avereage_comments_per_posts,did_vote
+1,25,female,Chicago,Democrat,30,100,30,TRUE
+2,32,male,N.Y.C,Republican,50,200,20,FALSE
+3,18,female,Atlanta,Independent,10,50,10,TRUE
+4,45,male,Dallas,Democrat,20,150,25,TRUE
+5,30,female,Houston,Republican,40,300,40,FALSE
+6,52,male,Francisco,Independent,15,100,20,TRUE
+7,21,female,Denver,Democrat,30,200,30,TRUE
+8,48,male,Phoenix,Republican,50,300,40,FALSE
+9,27,female,L.A,Independent,10,50,50,TRUE
